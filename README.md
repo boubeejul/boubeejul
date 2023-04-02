@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,python,java,sqlite"/>
 </br>
 </br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=omni"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=omni&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubeejul&layout=compact&theme=omni"/>
 </div>
 
