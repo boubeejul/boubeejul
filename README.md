@@ -1,6 +1,6 @@
 ## Olá! 😊
 
-📘 Estudante de Tecnologia da Informação e da Comunicação na FAETERJ - Petrópolis
+📘 Estudante de Tecnologia da Informação e da Comunicação na FAETERJ
 </br>
 📝 Cursando Residência em TIC pelo Serratec
 </br>
