@@ -13,7 +13,7 @@
 <div align="center">
 </br>
 </br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,postgresql"/>
 </br>
 </br>
 </br>
