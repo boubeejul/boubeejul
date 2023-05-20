@@ -1,6 +1,5 @@
-<h2> Olá! 😊</h2>
-<div style="display: flex; flex-direction: column;">
-<div>
+<h2 align="center"> Olá! 😊</h2>
+<div align="center">
 📘 Estudante de Tecnologia da Informação e da Comunicação na FAETERJ
 </br>
 📝 Cursando Residência em TIC pelo Serratec
@@ -19,5 +18,4 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=omni&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubeejul&layout=compact&theme=omni"/>
-</div>
 </div>
