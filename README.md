@@ -10,7 +10,7 @@
 <a href="https://www.hackerrank.com/boubeejul"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </br>
 </br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,postgresql,react"/>
 </div>
 </br>
 </br>
