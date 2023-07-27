@@ -12,3 +12,10 @@
 </br>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,postgresql,spring,react"/>
 </div>
+</br>
+</br>
+</br>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=omni&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubeejul&layout=compact&theme=omni"/>
+</div>
