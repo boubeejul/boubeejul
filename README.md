@@ -1,6 +1,6 @@
 <h2 align="center"> Olá! 😊</h2>
 <div align="center">
-📘 Estudante de Tecnologia da Informação e da Comunicação na FAETERJ
+📘 Estudante de Tecnologia da Informação e da Comunicação
 </br>
 📝 Cursando Residência em TIC pelo Serratec
 </br>
