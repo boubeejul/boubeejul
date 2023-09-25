@@ -2,7 +2,7 @@
 
 🏛️ Estudante de Tecnologia da Informação </br>
 📚 Estudando majoritariamente Desenvolvimento Web </br>
-🔭 Nas horas vagas, estudo Cibersegurança e Desenvolvimento de Jogos
+🔭 Nas horas vagas, estudo Desenvolvimento de Jogos
 
 </br>
 <a href="https://www.linkedin.com/in/juliana-cardozo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
