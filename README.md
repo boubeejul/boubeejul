@@ -11,6 +11,10 @@
 <hr/>
 </br>
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=dracula&count_private=true"/>
+</div>
+</br>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -20,6 +24,3 @@
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 </div>
 </br>
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=dracula&count_private=true"/>
-</div>
