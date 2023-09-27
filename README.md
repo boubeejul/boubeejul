@@ -8,6 +8,7 @@
 <a href="https://www.hackerrank.com/boubeejul"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </br>
 </br>
+<hr/>
 </br>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
