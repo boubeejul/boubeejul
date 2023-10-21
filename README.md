@@ -1,14 +1,15 @@
-<div align="center">
-<h2> Olá! 😊 </h2>
+<h2> Hi! 😊 </h2>
 
-🏛️ Estudante de Tecnologia da Informação </br>
-📚 Estudando majoritariamente Desenvolvimento Web </br>
+- 🏛️ Currently studying Information Technology at FAETERJ
+- 📚 Studying Web Development
+- 🕹️ I love video games and 80s music
 
 </br>
 
+
 <a href="https://www.linkedin.com/in/juliana-cardozo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/boubeejul"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-</div>
+
 
 </br>
 <div align="center">
