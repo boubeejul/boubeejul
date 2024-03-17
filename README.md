@@ -3,6 +3,7 @@
 - 🏛️ Currently studying Information Technology at FAETERJ
 - 📚 Studying Web Development
 - 🕹️ I love video games and 80s music
+- 👩🏻‍💻 Full Stack Development intern
 
 </br>
 
