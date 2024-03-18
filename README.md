@@ -1,7 +1,7 @@
 <h2> Hi! 😊 </h2>
 
 - 🏛️ Currently studying Information Technology at FAETERJ
-- 📚 Studying Web Development
+- 📚 Studying Web Development and Machine Learning
 - 🕹️ I love video games and 80s music
 - 👩🏻‍💻 Full Stack Development intern
 
