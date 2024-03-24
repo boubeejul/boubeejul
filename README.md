@@ -10,5 +10,6 @@
 </br>
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=boubeejul&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubeejul&layout=compact&theme=dracula"/>
 </div>
 </br>
