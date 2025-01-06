@@ -6,6 +6,8 @@ I am motivated by new challenges, continuous learning and collaboration.
 
 I also love video games 🎮 and music 🎵.
 
+<img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
+
 <b>You can find me here:</b>
 
 <div>
