@@ -1,6 +1,6 @@
 <h3> Hi! 😊 </h3>
 
-I'm Juliana, a Information and Communication Technology student. I'm passionate about learning and applying new technologies, and I'm currently working as an <b>intern in Cloud Infrastructure</b>.
+I'm Juliana, an Information and Communication Technology student. I'm passionate about learning and applying new technologies, and I'm currently working as an <b>intern in Cloud Infrastructure</b>.
 
 I am motivated by new challenges, continuous learning and collaboration.
 
