@@ -1,4 +1,4 @@
-<h3> Hi! 😊 </h3>
+<h3> Hi! 😎 </h3>
 
 I'm Juliana, an Information and Communication Technology student. I'm passionate about learning and applying new technologies, and I'm currently working as an <b>intern in Cloud Infrastructure</b>.
 
