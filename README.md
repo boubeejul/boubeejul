@@ -6,11 +6,16 @@ I am motivated by new challenges, continuous learning and collaboration.
 
 I also love video games 🎮, music 🎵, and melting my brain with LeetCode problems 🤓.
 
-<img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
+<div>
+  <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
+  <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
+  <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
+  <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
+</div>
 
-<b>You can find me here:</b>
+<br />
 
 - <a href="https://www.linkedin.com/in/juliana-cardozo/">Linkedin</a>
-- <a href="https://boubeejul.github.io/my-page/">My Website</a>
-- <a href="https://www.hackerrank.com/profile/boubeejul">HackerRank</a>
+- <a href="https://boubeejul.github.io/my-page/">Website</a>
 - <a href="https://boubeejul.gitbook.io/blog">Blog</a>
+- <a href="https://www.hackerrank.com/profile/boubeejul">HackerRank</a>
