@@ -1,6 +1,6 @@
 <h3> Hi! 😎 </h3>
 
-I'm Juliana, an Information and Communication Technology student. I'm passionate about learning and applying new technologies, and I'm currently working as an <b>intern in Cloud Infrastructure at Globo</b>.
+I'm Juliana, an Information and Communication Technology student. I'm passionate about learning and applying new technologies, and I'm currently working as an <b>intern in Cloud Engineer at Globo</b>.
 
 I am motivated by new challenges, continuous learning and collaboration.
 
