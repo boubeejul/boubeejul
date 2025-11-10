@@ -17,5 +17,4 @@ I also love video games 🎮, music 🎵, and melting my brain with LeetCode pro
 
 - <a href="https://www.linkedin.com/in/juliana-cardozo/">Linkedin</a>
 - <a href="https://boubeejul.github.io/my-page/">Website</a>
-- <a href="https://boubeejul.gitbook.io/blog">Blog</a>
 - <a href="https://www.hackerrank.com/profile/boubeejul">HackerRank</a>
