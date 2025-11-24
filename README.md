@@ -4,7 +4,7 @@ I'm Juliana, an Information and Communication Technology student. I'm passionate
 
 I am motivated by new challenges, continuous learning and collaboration.
 
-I also love video games 🎮, music 🎵, and melting my brain with LeetCode problems 🤓.
+I also love video games 🎮 and music 🎵.
 
 <div>
   <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/31.gif"/>
